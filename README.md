@@ -9,6 +9,11 @@ git clone https://github.com/AryaPhansalkar/Aluminate-v2
 ```
 Note: switch the url with your own url
 
+Change directory using
+```bash
+cd Aluminate-v2
+```
+
 ### Install Dependencies
 
 **Install dependencies:**
